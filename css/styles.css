@@ -59,11 +59,11 @@ address {
   color: #404bbf;
 }
 
-.slogan {
+.motto {
   background-color: #2e2f42;
 }
 
-.slogan-title {
+.motto-title {
   color: #fff;
   font-size: 56px;
   font-weight: 700;
@@ -72,7 +72,7 @@ address {
   text-align: center;
 }
 
-.slogan-button {
+.motto-button {
   color: #fff;
   font-size: 16px;
   font-weight: 500;
@@ -81,8 +81,8 @@ address {
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.slogan-button:hover,
-.slogan-button:focus {
+.motto-button:hover,
+.motto-button:focus {
   background-color: #404bbf;
 }
 
@@ -111,7 +111,7 @@ address {
   letter-spacing: 0.32px;
 }
 
-.qualities {
+.benefits {
   background-color: #fff;
 }
 
