@@ -80,6 +80,7 @@ address {
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
   cursor: pointer;
+  font-family: Roboto;
 }
 .motto-button:hover,
 .motto-button:focus {
