@@ -73,6 +73,7 @@ address {
 }
 
 .motto-button {
+  font-family: "Roboto", sans-serif;
   color: #fff;
   font-size: 16px;
   font-weight: 500;
@@ -80,7 +81,6 @@ address {
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
   cursor: pointer;
-  font-family: Roboto;
 }
 .motto-button:hover,
 .motto-button:focus {
